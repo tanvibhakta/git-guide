@@ -116,6 +116,8 @@ code {
 .block-trees code { color: #000; background-color: white; }
 .block-add { background-color: #cc4037; }
 .block-add h2, .block-add p { color: #4c0d09; }
+.block-commit { background-color: #d6aa2a; }
+.block-commit h3 { color: black }
 .block-remote { background-color: #ffc19f; }
 .block-remote h2 { color: #cc4037; }
 .block-branching { background-color: #000; }
